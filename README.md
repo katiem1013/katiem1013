@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello!
+
+I'm Katie a games programmer who is currently exploring Web Development as well!
+
+I have a few pinned project but I am most proud of Galactic Gunners and the controller I created to go with it. There is a video showing off the controller on my portfolio! 
+
+Fun Facts:
+  -  Minecraft inspired my love of game development
+  -  I collect Smiskis
+  -  Carcassonne is my favourite board game
+  -  Hobbies: Sewing, baking, drawing
 
 <!--
 **katiem1013/katiem1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
