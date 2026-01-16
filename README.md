@@ -1,6 +1,6 @@
-## Hello!
+## Hello! :smirk_cat:
 
-I'm Katie a games programmer who is currently exploring Web Development as well!
+I'm Katie, a games programmer who is currently exploring Web Development as well!
 
 I have a few pinned project but I am most proud of Galactic Gunners and the controller I created to go with it. There is a video showing off the controller on my portfolio! 
 
